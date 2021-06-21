@@ -37,6 +37,21 @@
 
 #define HOME_SYSTEM_SERGALTAL "Tal"
 
+///## CULTURE TESHARI ###########
+#define CULTURE_TESHARI "placeholder"
+
+//## TESHARI FACTIONS######################
+
+#define FACTION_TESHARI "placeholder"
+
+//## RELIGION TESHARI ########################
+
+#define RELIGION_TESHARI "placeholder"
+
+///## HOME SYSTEM SERGAL ##########################
+
+#define HOME_SYSTEM_TESHARI "placeholder"
+
 //##############################################################################################################
 //# MITHRA Adds specific customs into global culture defines ### Mithra had trouble locating these out of here #
 //##################################################################### VESTA.BAY ##############################
