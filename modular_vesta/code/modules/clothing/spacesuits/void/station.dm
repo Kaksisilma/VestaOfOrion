@@ -143,6 +143,27 @@
 		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/suit.dmi'
 	)
 
+/obj/item/clothing/head/helmet/space/void/pilot
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/helmet.dmi'
+	)
+
+/obj/item/clothing/suit/space/void/pilot
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/suit.dmi'
+	)
+
+//bay why the fuck are there voidsuit files inside the maps folder?
+/obj/item/clothing/head/helmet/space/void/pilot/sol
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/helmet.dmi'
+	)
+
+/obj/item/clothing/suit/space/void/pilot/sol
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/suit.dmi'
+	)
+
 ////Excavation Voidsuits
 /obj/item/clothing/suit/space/void/excavation
 	sprite_sheets = list(
@@ -164,3 +185,5 @@
 	sprite_sheets = list(
 		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/suit.dmi'
 	)
+
+////Command Voidsuits. Those are only used by the dagon. They require new sprites.
