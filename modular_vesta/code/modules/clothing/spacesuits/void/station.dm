@@ -153,7 +153,7 @@
 		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/suit.dmi'
 	)
 
-//bay why the fuck are there voidsuit files inside the maps folder?
+//bay why the fuck are there voidsuit files inside the map folders?
 /obj/item/clothing/head/helmet/space/void/pilot/sol
 	sprite_sheets = list(
 		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/helmet.dmi'
@@ -195,4 +195,15 @@
 /obj/item/clothing/suit/space/void/command
 	sprite_sheets = list(
 		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/suit.dmi'
+	)
+
+////This technically shouldn't be in station.dm but hey since we're putting everything here might aswell
+/obj/item/clothing/head/helmet/space/void/merc
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/helmet.dmi'
+	)
+
+/obj/item/clothing/suit/space/void/merc
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/suit.dmi'
 	)
