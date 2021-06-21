@@ -187,3 +187,12 @@
 	)
 
 ////Command Voidsuits. Those are only used by the dagon. They require new sprites.
+/obj/item/clothing/head/helmet/space/void/command
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/helmet.dmi'
+	)
+
+/obj/item/clothing/suit/space/void/command
+	sprite_sheets = list(
+		SPECIES_TESHARI = 'modular_vesta/icons/mob/species/resomi/sol/suit.dmi'
+	)
