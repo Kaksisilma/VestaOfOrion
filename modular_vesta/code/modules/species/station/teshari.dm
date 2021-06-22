@@ -45,18 +45,22 @@ requires tweaks based on lore.
 	swap_flags = MONKEY|SLIME|SIMPLE_ANIMAL
 	push_flags = MONKEY|SLIME|SIMPLE_ANIMAL|ALIEN
 
-	cold_level_1 = 180
-	cold_level_2 = 130
-	cold_level_3 = 70
-	heat_level_1 = 320
-	heat_level_2 = 370
-	heat_level_3 = 600
-	heat_discomfort_level = 292
+	cold_level_1 = 270
+	cold_level_2 = 210
+	cold_level_3 = 130
+	heat_level_1 = 380
+	heat_level_2 = 430
+	heat_level_3 = 1050
+	heat_discomfort_level = 380
 	heat_discomfort_strings = list(
 		"Your feathers prickle in the heat.",
 		"You feel uncomfortably warm.",
 		)
-	cold_discomfort_level = 180
+	cold_discomfort_level = 292
+	heat_discomfort_strings = list(
+		"Your feathers puff out in response to the cold air.",
+		"You feel a deep and uncomfortable chill.",
+		)
 
 	available_cultural_info = list(
 		TAG_CULTURE = list(
@@ -76,7 +80,6 @@ requires tweaks based on lore.
 	)
 	override_organ_types = list(
 		BP_EYES = /obj/item/organ/internal/eyes/teshari,
-		BP_BRAIN = /obj/item/organ/internal/brain/teshari
 	)
 	has_limbs = list(
 		BP_CHEST =  list("path" = /obj/item/organ/external/chest),

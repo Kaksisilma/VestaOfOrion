@@ -1,7 +1,7 @@
 /datum/gear/uniform/teshari
 	display_name = "tailored teshari uniforms"
 	path = /obj/item/clothing/under/teshari
-	whitelisted = list(SPECIES_SKRELL)
+	whitelisted = list(SPECIES_TESHARI)
 	sort_category = "Xenowear"
 
 /datum/gear/uniform/teshari/New()
