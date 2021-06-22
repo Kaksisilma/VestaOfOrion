@@ -223,6 +223,6 @@
 
 /datum/mil_rank/fleet/e7_alt
 	name = "Gunnery Sergeant"
-	name_short = "SFC"
+	name_short = "GySGT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/fleet/enlisted/e7, /obj/item/clothing/accessory/solgov/specialty/enlisted)
 	sort_order = 7
