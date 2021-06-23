@@ -8,7 +8,7 @@ requires tweaks based on lore.
 	name = SPECIES_TESHARI
 	name_plural = "Tesharii"
 	description = "Placeholder"
-	min_age = 15
+	min_age = 18
 	max_age = 45
 	health_hud_intensity = 3
 
