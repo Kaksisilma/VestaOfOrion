@@ -3214,5 +3214,8 @@
 #include "maps\~mapsystem\maps_jobs.dm"
 #include "maps\~mapsystem\maps_unit_testing.dm"
 #include "maps\~unit_tests\unit_testing.dm"
+#include "modular_vesta\code\__defines\items_clothing.dm"
+#include "modular_vesta\code\modules\clothing\suits\armor.dm"
+#include "modular_vesta\code\modules\clothing\under\accessories\armor.dm"
 #include "~code\global_init.dm"
 // END_INCLUDE
