@@ -51,7 +51,7 @@
 
 /obj/item/clothing/under/teshari/security
 	name = "tailored security uniform"
-	desc = "A jumpsuit specifically tailored to fit a Teshari. This one belongs to the Security department."
+	desc = "A uniform specifically tailored to fit a Teshari. This one belongs to the Security department."
 	icon_state = "teshari_dress_security"
 	item_state = "teshari_dress_security"
 	worn_state = "teshari_dress_security"
