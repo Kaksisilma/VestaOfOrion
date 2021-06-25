@@ -3215,5 +3215,6 @@
 #include "maps\~mapsystem\maps_unit_testing.dm"
 #include "maps\~unit_tests\unit_testing.dm"
 #include "modular_vesta\code\modules\clothing\head\helmet.dm"
+#include "modular_vesta\code\modules\projectiles\projectile\bullets.dm"
 #include "~code\global_init.dm"
 // END_INCLUDE
