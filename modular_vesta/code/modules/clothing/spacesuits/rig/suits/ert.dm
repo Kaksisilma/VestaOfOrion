@@ -32,9 +32,9 @@
 /obj/item/clothing/head/helmet/space/rig/ert
 	icon = 'modular_vesta/icons/obj/clothing/obj_head.dmi'
 	item_icons = list(slot_head_str = 'modular_vesta/icons/mob/onmob/onmob_head.dmi')
-	///This is a horrible way to make sure the correct sprites are used, but it will do for now.
+	///This is a horrible way to make sure the correct sprites are used, but DM has forced my hand.
 	sprite_sheets = list(
-		SPECIES_SKRELL = 'modular_vesta/icons/mob/onmob/onmob_head.dmi',
+		SPECIES_SKRELL = 'modular_vesta/icons/mob/species/skrell/onmob_head_skrell.dmi',
 		SPECIES_HUMAN = 'modular_vesta/icons/mob/onmob/onmob_head.dmi',
 		SPECIES_UNATHI = 'modular_vesta/icons/mob/onmob/onmob_head.dmi',
 		SPECIES_IPC = 'modular_vesta/icons/mob/onmob/onmob_head.dmi'
@@ -49,7 +49,7 @@
 	sprite_sheets = list(
 		SPECIES_SKRELL = 'modular_vesta/icons/mob/onmob/onmob_suit.dmi',
 		SPECIES_HUMAN = 'modular_vesta/icons/mob/onmob/onmob_suit.dmi',
-		SPECIES_UNATHI = 'modular_vesta/icons/mob/onmob/onmob_suit.dmi',
+		SPECIES_UNATHI = 'modular_vesta/icons/mob/species/unathi/onmob_suit_unathi.dmi',
 		SPECIES_IPC = 'modular_vesta/icons/mob/onmob/onmob_suit.dmi'
 		)
 	species_restricted = list(SPECIES_HUMAN,SPECIES_SKRELL,SPECIES_UNATHI,SPECIES_IPC)
@@ -60,7 +60,7 @@
 	sprite_sheets = list(
 		SPECIES_SKRELL = 'modular_vesta/icons/mob/onmob/onmob_feet.dmi',
 		SPECIES_HUMAN = 'modular_vesta/icons/mob/onmob/onmob_feet.dmi',
-		SPECIES_UNATHI = 'modular_vesta/icons/mob/onmob/onmob_feet.dmi',
+		SPECIES_UNATHI = 'modular_vesta/icons/mob/species/unathi/onmob_feet_unathi.dmi',
 		SPECIES_IPC = 'modular_vesta/icons/mob/onmob/onmob_feet.dmi'
 		)
 	species_restricted = list(SPECIES_HUMAN,SPECIES_SKRELL,SPECIES_UNATHI,SPECIES_IPC)
@@ -71,7 +71,7 @@
 	sprite_sheets = list(
 		SPECIES_SKRELL = 'modular_vesta/icons/mob/onmob/onmob_hands.dmi',
 		SPECIES_HUMAN = 'modular_vesta/icons/mob/onmob/onmob_hands.dmi',
-		SPECIES_UNATHI = 'modular_vesta/icons/mob/onmob/onmob_hands.dmi',
+		SPECIES_UNATHI = 'modular_vesta/icons/mob/species/unathi/onmob_hands_unathi.dmi',
 		SPECIES_IPC = 'modular_vesta/icons/mob/onmob/onmob_hands.dmi'
 		)
 	item_flags = ITEM_FLAG_THICKMATERIAL | ITEM_FLAG_NOCUFFS
