@@ -3218,5 +3218,6 @@
 #include "modular_vesta\code\game\objects\items\contraband.dm"
 #include "modular_vesta\code\modules\reagents\Chemistry-Reagents\Chesmitry-Reagents-Medicine.dm"
 #include "modular_vesta\code\modules\reagents\reagent_containers\hypospray.dm"
+#include "modular_vesta\code\modules\clothing\head\helmet.dm"
 #include "~code\global_init.dm"
 // END_INCLUDE
