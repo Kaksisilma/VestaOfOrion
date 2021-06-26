@@ -3217,5 +3217,6 @@
 #include "modular_vesta\code\__defines\items_clothing.dm"
 #include "modular_vesta\code\modules\clothing\suits\armor.dm"
 #include "modular_vesta\code\modules\clothing\under\accessories\armor.dm"
+#include "modular_vesta\code\modules\clothing\head\helmet.dm"
 #include "~code\global_init.dm"
 // END_INCLUDE
